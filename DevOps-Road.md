@@ -1,4 +1,4 @@
-# DevOps Roadmap for 10 Weeks 🚀
+# DevOps Roadmap for 30 Days 🚀
 
 This roadmap provides a step-by-step guide to mastering essential DevOps concepts and tools within a 30-day timeframe. Each week focuses on different topics and technologies, allowing you to gradually build your skills and understanding.
 
