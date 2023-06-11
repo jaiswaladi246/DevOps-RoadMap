@@ -64,14 +64,14 @@ This roadmap provides a step-by-step guide to mastering essential DevOps concept
 
 
 
-## DAY 25-28: Infrastructure as Code (IaC) 🏗️
+## DAY 25-29: Infrastructure as Code (IaC) 🏗️
 
 **🏗️ IaC Tools:** Learn tools like Terraform or Azure Resource Manager templates for automated infrastructure provisioning.
 
 ![alt text](https://github.com/jaiswaladi246/DevOps-RoadMap/blob/main/Images/18.png?raw=true)
 
 
-## DAY 29-30: Monitoring Tools and Observability 📊
+## DAY 30-31 +-2: Monitoring Tools and Observability 📊
 
 **📊 Monitoring Tools:** Explore tools like Prometheus and Grafana for monitoring application and infrastructure.
 
